@@ -5,7 +5,11 @@ export function HeroSection() {
     <section className="relative min-h-screen bg-transparent overflow-hidden">
       {/* Attractive Background Photo */}
       <Image
+        HEAD
         src="/images/hero.jpg" // Placeholder for an attractive farm photo
+
+        src="public/hero.jpg.jpg" // Placeholder for an attractive farm photo
+         3180b1ccf4348543c1f745ab7c4b4a90315fae8c
         alt="Adorable farm animals and lush fields at Udho Farm"
         fill
         className="object-cover opacity-80" // Adjust opacity as needed for text readability
